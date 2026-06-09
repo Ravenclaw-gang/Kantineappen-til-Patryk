@@ -20,9 +20,9 @@ def index():
 def info():
      return render_template("index_info.html", )
 
-@app.route("/bilder")
-def bilder():
-    return render_template("bilder01.html", )
+@app.route("/veiledning")
+def veiledning():
+    return render_template("veiledning.html", )
 
 # Starter flask applikasjonen på port 6565
 if __name__ == "__main__":
