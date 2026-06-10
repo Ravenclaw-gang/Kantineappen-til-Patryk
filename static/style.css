@@ -135,3 +135,39 @@ footer h2 {
     font-size: 1.1rem;
     font-weight: 600;
 }
+
+.veiledning {
+    font-size: 20px;
+    text-align: center;
+    color: #cc6060;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.footer {
+    background-color: #dd874d; 
+    color: rgb(192, 81, 81); 
+    padding: 15px 0;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    box-shadow: 0 -4px 12px rgba(0,0,0,0.1);
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.Overskrift1 {
+    font-size: 24px;
+    color: #c5361e;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.p1 {
+    font-size: 18px;
+    color: #000000;
+    text-align: center;
+    margin-top: 15px;
+}
+
